@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1773216908 source:c:\users\andrei\desktop\rc-proiect\proiectrc\main.cpp
+	<winsock2.h>
+	<iostream>
+	<io.h>
+	<ws2tcpip.h>
+	<cstring>
+	<conio.h>
+
